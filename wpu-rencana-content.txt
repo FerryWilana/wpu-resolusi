@@ -33,5 +33,7 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+
+Terima Kasih atas semua ilmunya panjang umur dan sehat selalu pak
 - Aplikasi android
 - Sertifikat SSL
